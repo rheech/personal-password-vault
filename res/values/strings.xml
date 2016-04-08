@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Personal Password Vault v1.1</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Personal Password Vault</string>
+
+</resources>

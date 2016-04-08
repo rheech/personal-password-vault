@@ -1,0 +1,30 @@
+
+<!-- 
+*****************************************************************************
+* Name: activity_main.xml
+* Purpose: Create the driven interface between the user and the program.
+* Ownership/Programmers in action.
+* 11/03/2012
+*****************************************************************************
+* MAINTANENCE LOG                                                           
+*****************************************************************************
+* DATE:       *  Entry               *     Description                      
+*****************************************************************************
+* 11/03/2012    Lee                     wrote the initital version 1.0
+* 12/03/2012    Lee                     worte version 1.1
+* 
+*****************************************************************************
+* Purpose: A single simple sentence.
+* on Entry
+* will ask user for data to be stored
+* on Exit
+* will save data or canceled data 
+* Reuse Instructions/Limitations: none as 12/03/2012
+*****************************************************************************
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+</RelativeLayout>
